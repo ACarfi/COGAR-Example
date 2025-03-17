@@ -7,5 +7,4 @@ Talker
 
    /install
    /listener
-   /talker
    How to Use </use>

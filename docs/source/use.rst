@@ -8,4 +8,3 @@ Use
    /install
    /listener
    /talker
-   How to Use </use>

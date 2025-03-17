@@ -6,6 +6,5 @@ Listener
    :caption: Content
 
    /install
-   /listener
    /talker
    How to Use </use>
