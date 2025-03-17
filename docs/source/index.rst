@@ -8,6 +8,7 @@ Welcome to COGAR example's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Content
+
    /install
    /listener
    /talker
