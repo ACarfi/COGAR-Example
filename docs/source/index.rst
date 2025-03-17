@@ -5,12 +5,12 @@
 
 Welcome to COGAR example's documentation!
 =========================================
-
+hola
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+hola
 
 Indices and tables
 ==================
