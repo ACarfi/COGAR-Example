@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to COGAR example's documentation!
+COGAR example's documentation
 =========================================
+
 .. toctree::
    :maxdepth: 2
    :caption: Content
@@ -13,11 +14,13 @@ Welcome to COGAR example's documentation!
    /listener
    /talker
    How to Use </use>
-      
 
 This documentation is an example for the course Cognitive Architecture for Robotics hold at UniGe in 2025 by Alessandro Carfì.
 
 The rospackage "example_pkg" contains two nodes and a launch file.
+
+
+
 
 Indices and tables
 ==================
