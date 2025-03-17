@@ -20,6 +20,8 @@ The rospackage "example_pkg" contains two nodes and a launch file.
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`geninstall`
+* :ref:`genlistener`
+* :ref:`gentalker`
+* :ref:`genuse`
+
