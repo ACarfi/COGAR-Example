@@ -6,6 +6,11 @@
 COGAR example's documentation
 =========================================
 
+
+This documentation is an example for the course Cognitive Architecture for Robotics hold at UniGe in 2025 by Alessandro Carfì.
+
+The rospackage "example_pkg" contains two nodes and a launch file.
+
 .. toctree::
    :maxdepth: 2
    :caption: Content
@@ -15,18 +20,8 @@ COGAR example's documentation
    /talker
    How to Use </use>
 
-This documentation is an example for the course Cognitive Architecture for Robotics hold at UniGe in 2025 by Alessandro Carfì.
-
-The rospackage "example_pkg" contains two nodes and a launch file.
 
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`genmodindex`
-* :ref:`gensearch`
 
 
