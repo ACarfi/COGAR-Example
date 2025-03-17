@@ -5,12 +5,12 @@
 
 Welcome to COGAR example's documentation!
 =========================================
-hola
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-hola
+This documentation is an example for the course Cognitive Architecture for Robotics hold at UniGe in 2025 by Alessandro Carfì
+The rospackage "example_pkg" contains two nodes and a launch file.
 
 Indices and tables
 ==================
