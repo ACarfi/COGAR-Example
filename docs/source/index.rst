@@ -3,9 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-COGAR example's documentation
-=========================================
-
 .. raw:: html
 
    <p style="text-align: right;">
@@ -13,6 +10,11 @@ COGAR example's documentation
          📌 View on GitHub
       </a>
    </p>
+
+COGAR example's documentation
+=========================================
+
+
 
 This documentation serves as an example for the Cognitive Architecture for Robotics course at UniGe in 2025 by Alessandro Carfì. It focuses on how to properly document a ROS package using Sphinx and Read the Docs.
 
