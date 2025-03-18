@@ -39,7 +39,7 @@ To launch both nodes at once, use the following command:
 
 This will start both the `talker` and `listener` nodes and automatically connect them through the `chatter` topic. Then you should see the following output in your terminal:
 
-.. image:: /_static/execution_results.png
+.. image:: _static/execution_results.png
    :alt: Screenshot of the output
    :align: center
    :width: 70%
