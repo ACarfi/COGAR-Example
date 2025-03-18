@@ -28,4 +28,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_show_sourcelink = True
-github_url = https://github.com/ACarfi/COGAR-Example
+
+html_context = {
+    "github_url": "https://github.com/ACarfi/COGAR-Example",  # Correct GitHub URL
+}
