@@ -1,8 +1,6 @@
 Install
-=======
+=========================================
 
-To install this package, follow the instructions below:
+This is a ROS package, to install it is necessary to install ROS Noetic, follow the official guide.
 
-1. Install dependencies:
-   ```bash
-   sudo apt-get install python3-pip python3-dev
+.. https://wiki.ros.org/noetic/Installation
