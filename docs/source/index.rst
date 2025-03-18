@@ -34,4 +34,4 @@ While the package is a simple ROS example, the primary goal is to demonstrate be
    Install <install>
    listener
    talker
-   How to Use <use>
+   How to Use <use.rst>
