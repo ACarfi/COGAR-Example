@@ -31,8 +31,8 @@ html_show_sourcelink = False
 
 html_context = {
     "display_github": True,  # Enables the GitHub link
-    "github_user": "your-github-username",  # Replace with your GitHub username
-    "github_repo": "your-repository-name",  # Replace with your repository name
+    "github_user": "ACarfi",  # Replace with your GitHub username
+    "github_repo": "COGAR-Example",  # Replace with your repository name
     "github_version": "main",  # Branch name (e.g., 'main' or 'master')
     "conf_py_path": "/docs/source/",  # Path inside the repo where your docs are stored
 }
