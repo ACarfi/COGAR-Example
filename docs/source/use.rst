@@ -37,7 +37,15 @@ To launch both nodes at once, use the following command:
 
    roslaunch example_pkg example.launch
 
-This will start both the `talker` and `listener` nodes and automatically connect them through the `chatter` topic.
+This will start both the `talker` and `listener` nodes and automatically connect them through the `chatter` topic. Then you should see the following output in your terminal:
+
+.. image:: /_static/images/execution_results.png
+   :alt: Screenshot of the output
+   :align: center
+   :width: 70%
+
+This image demonstrates how the result should look when the nodes are running successfully.
+
 
 Viewing the Topic
 -----------------
