@@ -32,7 +32,6 @@ html_context = {
     "github_user": "ACarfi",  # Replace with your GitHub username
     "github_repo": "COGAR-Example",  # Replace with your repository name
     "github_version": "main",  # Branch name (e.g., 'main' or 'master')
-    "conf_py_path": "/docs/source/",  # Path inside the repo where your docs are stored
 }
 
 html_show_sourcelink = False

@@ -26,9 +26,3 @@ While the package is a simple ROS example, the primary goal is to demonstrate be
    listener
    talker
    How to Use <use>
-
-
-
-
-
-
