@@ -15,10 +15,10 @@ The rospackage "example_pkg" contains two nodes and a launch file.
    :maxdepth: 2
    :caption: Content
 
-   /install
-   /listener
-   /talker
-   How to Use </use>
+   install
+   listener
+   talker
+   How to Use <use>
 
 
 
