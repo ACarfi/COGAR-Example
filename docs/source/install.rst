@@ -25,6 +25,7 @@ Step 3: Clone the ROS package
 Clone the ROS package into the src folder of the workspace:
 
 .. code-block:: bash
+
    cd ~/catkin_ws/src
    git clone https://github.com/ACarfi/COGAR-Example.git
 
@@ -32,6 +33,7 @@ Step 4: Build the package
 ^^^^^^^^
 
 .. code-block:: bash
+
    cd ~/catkin_ws
    catkin_make
 
@@ -39,6 +41,7 @@ Step 5: Source your workspace:
 ^^^^^^^^
 
 .. code-block:: bash
+    
    source devel/setup.bash
 
 Now, you should be able to use the package refer to the :ref:`How to Use <use>` page.
