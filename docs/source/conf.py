@@ -27,6 +27,14 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
+html_theme_options = {
+    "navigation_with_keys": True,  # Keeps keyboard navigation
+    "logo_only": False,  # Show full logo and title
+    "display_version": True,  # Show version number
+    "prev_next_buttons_location": "bottom",
+    "style_external_links": True,  # Allows external links in navigation
+}
+
 html_context = {
     "display_github": True,  # Enables the GitHub link
     "github_user": "ACarfi",  # Replace with your GitHub username
