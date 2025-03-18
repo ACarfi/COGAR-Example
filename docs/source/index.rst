@@ -3,14 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. raw:: html
-
-   <p style="text-align: right;">
-      <a href="https://github.com/ACarfi/COGAR-Example" target="_blank">
-         📌 View on GitHub
-      </a>
-   </p>
-
 COGAR example's documentation
 =========================================
 
@@ -18,7 +10,7 @@ COGAR example's documentation
 
 This documentation serves as an example for the Cognitive Architecture for Robotics course at UniGe in 2025 by Alessandro Carfì. It focuses on how to properly document a ROS package using Sphinx and Read the Docs.
 
-The package itself includes:
+The `package <https://github.com/ACarfi/COGAR-Example>`_ includes:
 
 - A talker node that publishes messages.
 - A listener node that subscribes and processes messages.
