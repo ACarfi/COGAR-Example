@@ -31,9 +31,8 @@ html_show_sourcelink = False
 
 html_context = {
     "display_github": True,  # Enable GitHub link
-    #"github_user": "ACarfi",  # Your GitHub username
-    #"github_repo": "COGAR-Example",  # Repository name
-    #"github_url": "https://github.com/ACarfi/COGAR-Example",  # Correct GitHub URL
-}
+    "github_user": "ACarfi",  # Your GitHub username
+    "github_repo": "COGAR-Example",  # Repository name
+    "github_version": "main",
 
-github_url = "https://github.com/ACarfi/COGAR-Example"
+}
