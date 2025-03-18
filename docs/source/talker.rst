@@ -8,6 +8,7 @@ The `talker <https://github.com/ACarfi/COGAR-Example/blob/main/scripts/talker.py
 .. list-table::
    :header-rows: 1
    :widths: 20 80
+   
    * - **Topic Name**  
      - `/chatter`
    * - **Message Type**  
