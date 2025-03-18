@@ -1,5 +1,6 @@
 Installation Instructions for ROS Package
 ==============================================
+.. _install:
 
 To build and install a ROS package, you'll first need to set up a **catkin workspace**. Below are the steps to create the workspace, build it, and install the ROS package.
 

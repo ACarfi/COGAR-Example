@@ -1,9 +1,6 @@
-Use
-=========================================
-.. _use:
-
 How to Use the COGAR Example Package
 ====================================
+.. _use:
 
 This section explains how to use the `example_pkg` ROS package. The package contains two nodes: `talker` and `listener`, which can be used to communicate via ROS topics.
 
@@ -48,7 +45,7 @@ Viewing the Topic
 You can check if the nodes are communicating properly by echoing the `chatter` topic:
 
 .. code-block:: bash
-    
+
    rostopic echo /chatter
 
 This will display the messages being published by the `talker` node and received by the `listener` node.
