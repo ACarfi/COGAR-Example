@@ -1,4 +1,4 @@
-Installation Instructions for Catkin Workspace
+Installation Instructions for ROS Package
 ==============================================
 
 To build and install a ROS package, you'll first need to set up a **catkin workspace**. Below are the steps to create the workspace, build it, and install the ROS package.
@@ -41,7 +41,7 @@ Step 5: Source your workspace:
 ^^^^^^^^
 
 .. code-block:: bash
-    
+
    source devel/setup.bash
 
 Now, you should be able to use the package refer to the :ref:`How to Use <use>` page.
