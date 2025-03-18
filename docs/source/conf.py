@@ -27,8 +27,11 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
-html_show_sourcelink = True
+html_show_sourcelink = False
 
 html_context = {
+    "display_github": True,  # Enable GitHub link
+    "github_user": "ACarfi",  # Your GitHub username
+    "github_repo": "COGAR-Example",  # Repository name
     "github_url": "https://github.com/ACarfi/COGAR-Example",  # Correct GitHub URL
 }
