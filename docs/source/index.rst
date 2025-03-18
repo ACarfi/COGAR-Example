@@ -6,8 +6,6 @@
 COGAR example's documentation
 =========================================
 
-
-
 This documentation serves as an example for the Cognitive Architecture for Robotics course at UniGe in 2025 by Alessandro Carfì. It focuses on how to properly document a ROS package using Sphinx and Read the Docs.
 
 The `package <https://github.com/ACarfi/COGAR-Example>`_ includes:
@@ -24,6 +22,7 @@ While the package is a simple ROS example, the primary goal is to demonstrate be
    :caption: Content
 
    Install <install.rst>
+   How to Use <use.rst>
    Listener <listener.rst>
    Talker <talker.rst>
-   How to Use <use.rst>
+   
