@@ -16,6 +16,7 @@ The package itself includes:
 - A launch file to run both nodes together.
 
 While the package is a simple ROS example, the primary goal is to demonstrate best practices for writing clear, structured, and maintainable documentation.
+
 .. toctree::
    :maxdepth: 2
    :hidden:
