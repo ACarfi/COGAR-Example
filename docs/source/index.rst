@@ -6,6 +6,13 @@
 COGAR example's documentation
 =========================================
 
+.. raw:: html
+
+   <p style="text-align: right;">
+      <a href="https://github.com/ACarfi/COGAR-Example" target="_blank">
+         📌 View on GitHub
+      </a>
+   </p>
 
 This documentation serves as an example for the Cognitive Architecture for Robotics course at UniGe in 2025 by Alessandro Carfì. It focuses on how to properly document a ROS package using Sphinx and Read the Docs.
 
