@@ -61,7 +61,7 @@ This will start both the `talker` and `listener` nodes and automatically connect
 
    <br><br>
    
-This image demonstrates how the result should look when the nodes are running successfully.
+This video demonstrates how the result should look when the nodes are running successfully.
 
 
 Viewing the Topic
