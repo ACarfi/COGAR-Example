@@ -37,3 +37,7 @@ html_context = {
     "conf_py_path": "/docs/source/",  # Path inside the repo where your docs are stored
 }
 
+extensions = [
+    'sphinxcontrib.video',
+    'sphinxcontrib.youtube',
+]

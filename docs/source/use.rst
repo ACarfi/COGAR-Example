@@ -39,10 +39,23 @@ To launch both nodes at once, use the following command:
 
 This will start both the `talker` and `listener` nodes and automatically connect them through the `chatter` topic. Then you should see the following output in your terminal:
 
-.. image:: /_static/execution_result.png
+.. Sphinx Code to include an image
+.. .. image:: /_static/execution_result.png
    :alt: Screenshot of the output
    :align: center
    :width: 70%
+
+.. Sphinx Code to include a video hosted on githu using the `sphinxcontrib-video` extension
+.. video:: _static/video.mp4
+   :autoplay: 
+   :loop: 
+   :width: 100%
+
+.. Sphinx Code to include a YouTube video using the `sphinxcontrib-youtube` extension
+.. ..  youtube:: dQw4w9WgXcQ
+   :width: 100%
+   :height: 500px
+   
 
 .. raw:: html
 
