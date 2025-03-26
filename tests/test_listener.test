@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="example_pkg" name="listener" type="listener.py" />
+    <test test-name="test_listener" pkg="example_pkg" type="test_listener.py"/>
+</launch>
