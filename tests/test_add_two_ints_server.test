@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="example_pkg" name="add_two_ints_server" type="add_two_ints_server.py" />
+    <test test-name="test_add_two_ints_server" pkg="example_pkg" type="test_add_two_ints_server.py"/>
+</launch>
